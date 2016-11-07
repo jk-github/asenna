@@ -14,3 +14,6 @@ siten käytin komentoa git commit puppetin kansiossa jossa valmis moduli oleilee
 Homa ei menyt ihan putkeen koska fatal: destination path 'asenna' already exists and is not an empty directory. siirsin sitten aiemat tavarat pois mv komennolla ja sain homman menemään läpi siten kopioin aiemna kansion sisällön asenna kansioon ja käytin git push git pull komentoja ja sain netiin haluamani sisällöt.
 
 
+##Testaus
+
+lopuksi vielä poistin kaikki luokkaan liittyvät koneelta ja hain ne gitin avula uudelen koneelle ja ajoin luokan ongelmitta.
